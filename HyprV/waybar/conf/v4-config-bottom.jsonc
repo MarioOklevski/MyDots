@@ -7,11 +7,12 @@
     "gtk-layer-shell": true,
     "height": 25,
     "modules-left": [
-        "custom/launch_wofi",
-        "custom/launch_firefox",
-        "custom/launch_thunderbird",
-        "custom/launch_kitty",
-        "custom/launch_thunar"
+        "placeholder"
+        // "custom/launch_wofi",
+        // "custom/launch_firefox",
+        // "custom/launch_thunderbird",
+        // "custom/launch_kitty",
+        // "custom/launch_thunar"
     ],
     "modules-center": ["wlr/taskbar"],
     "modules-right": ["custom/weather"],
